@@ -1,7 +1,7 @@
 [Spiffy UI](http://www.spiffyui.org) - GWT made simple
 ==================================================
 
-This is an application created from the [Spiffy UI Framework](http://www.spiffyui.org) project creator, which builds a simple REST application with Apache Maven.
+This is an application created with the [Spiffy UI Framework](http://www.spiffyui.org) project creator, which builds a simple REST application with Apache Maven.
 
 
 Building and Running HelloSpiffyMavenPlugin
